@@ -220,7 +220,7 @@ _**Lesson Files**_
   
 
 _**Lesson Files**_
-1. AEM Content Package [Package-Lesson-3.zip](packages/Package-Lesson-3.zip)
+1. AEM Content Package [Package-Lesson-3.zip](dist/packages/Package-Lesson-3.zip)
   
 ## Lesson 4 - Container Components
 
