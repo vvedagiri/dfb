@@ -181,7 +181,7 @@ _**Lesson Files**_
 
 1. AEM Code Install: [aem-guides-bp.all-0.0.2-SNAPSHOT.zip](dist/packages/aem-guides-bp.all-0.0.2-SNAPSHOT.zip) 
 2. Original HTML Files:  [templated-industrious.zip](dist/packages/templated-industrious.zip)
-3. Modified HTM Files: [templated-industrious-modified.zip](dist/templated-industrious-modified.zip )
+3. Modified HTM Files: [templated-industrious-modified.zip](dist/packages/templated-industrious-modified.zip )
 
 ## Lesson 3 - Configuring your AEM Page template
   
